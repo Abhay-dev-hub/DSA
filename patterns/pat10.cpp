@@ -37,7 +37,7 @@ void method2(int n){
 int main(){
     int n;
     cin >> n;
-    // this method 1, got by mistake but it prints unnessary spaces when i = 0, 
+    // this method 1, got by mistake because it prints unnessary spaces when i = 0, 
     // becasue of that the 6th line ie fails and get space
     // meathod1(n);
     // meathod2(n);
