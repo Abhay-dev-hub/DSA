@@ -32,8 +32,6 @@ void method2(int n){
      }
 }
 
-
-
 int main(){
     int n;
     cin >> n;
@@ -43,3 +41,4 @@ int main(){
     // meathod2(n);
     method2(n);
 }
+
