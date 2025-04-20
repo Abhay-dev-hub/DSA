@@ -1,2 +1,2 @@
-#STRIVER DSA
+# STRIVER DSA
 DSA using C++
